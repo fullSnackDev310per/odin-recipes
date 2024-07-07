@@ -1,0 +1,34 @@
+.homepage,
+.blog-title {
+    background-color: whitesmoke;
+    color: black;
+    font-weight: 800;
+    font-size: 40px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+ul.recipes {
+    font-size: 20px;
+    color: black;
+    font-weight: 100;
+}
+.coconut-bulgur-jollof {
+    color: rgb(59, 34, 34);
+    background-color: bisque;
+}
+.image {
+   margin-top: 20px;
+}
+.title {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.fish-pie {
+    background-color: powderblue;
+    color: cornsilk;
+}
+.nigerian-beef-stew {
+    color: tomato;
+}
+.zobo {
+    color: rgb(31, 1, 31);
+    background-color: rgb(249, 225, 249);
+}
